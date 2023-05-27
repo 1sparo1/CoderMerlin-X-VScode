@@ -1,9 +1,4 @@
----
-
-tittle: Coder Merlin X Visual Studio Code
-
----
-
+![](pic/logo.png)
 ## Background
 
 [Visual Studio Code or VS code](https://code.visualstudio.com/) is a source code editor that allows users to add 
