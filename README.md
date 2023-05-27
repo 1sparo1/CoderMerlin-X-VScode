@@ -28,15 +28,18 @@ On the left-hand side, there is a bar with different options, and for the sake o
 After you click it, go to the search bar and type "SFTP".
 
 ![](pic/sftp.png)
+
 (note for this tutorial we will use the excision ["vs code SFTP"](https://marketplace.visualstudio.com/items?itemName=suntobright.vscode-sftp))
 
 Install the highlighted extension titled ["VS Code SFTP."](https://marketplace.visualstudio.com/items?itemName=suntobright.vscode-sftp). Note that you may need to reload Visual Studio Code.
 
 Once you have installed the extension and reloaded your VS code, click the "View" tab on the menu bar.
+
 ![](pic/menueBar.png)
 
 
 Click the commandpallet option:
+
 ![](pic/view.png)
 
 Once you click this, a popup will appear. In the search field, type "SFTP", and an option titled "SFTP: add folder", will appear. Click this.
