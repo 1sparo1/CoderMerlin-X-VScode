@@ -61,8 +61,8 @@ But for this tutorial delete the boiler plate given; instead use this:
     "comment": "Please fill the following configuration, save it, then close the tab.",
     "host": "ssh.codermerlin.com",
     "port": 443,
-    "username": "joe-mama",//put your username
-    "password": "password123" // put your password
+    "username": "joe-mama",
+    "password": "password123" 
 }
 ```
 After finishing, save the file with "Ctrl + s", and you can close the file. Once you do a pop up on the lower right hand corner will appear. In the lower right had corner. Click accept.
