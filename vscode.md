@@ -15,37 +15,37 @@ extensions to fit their needs. Released on April 29, 2015, it has become a tool 
 
 First you should go to the Visual Studio Code webpage and install it.
 
-![](vscodeWebsite.png)
+![](pic/vscodeWebsite.png)
 
 After completing the install process you will be presented a start screen on first open.
 
-![](vscodeStartScreen.png)
+![](pic/vscodeStartScreen.png)
 
 On the left hand side there is a bar with different options, and for the sake of time we will only worry about one of the options. Click the extensions icon.
 
-![](bar.png)
+![](pic/bar.png)
 
 After you click it, go to the search bar and type "SFTP".
 
-![](sftp.png)
+![](pic/sftp.png)
 (note for this tutorial we will use the excision ["vs code SFTP"](https://marketplace.visualstudio.com/items?itemName=suntobright.vscode-sftp))
 
 Install the highlighted extension titled ["VS Code SFTP"](https://marketplace.visualstudio.com/items?itemName=suntobright.vscode-sftp). Note that you may need to reload Visual Studio Code.
 
 Once you have installed the extension and reloaded your VS code, click the "View" tab on the menu bar.
-![](menueBar.png)
+![](pic/menueBar.png)
 
 
 Click the commandpallet option:
-![](view.png)
+![](pic/view.png)
 
 once you click this, a popup will appear. In the search felid type "SFTP", and an option titled "SFTP: add folder", click this.
 
-![](popup.png)
+![](pic/popup.png)
 
 Once you have clicked this, you will be promoted with an option to create a new connection.
 
-![](connect.png)
+![](pic/connect.png)
 
 Once you do that, it will generate a new file called "sftConfig.json". It will look like this:
 
@@ -74,6 +74,6 @@ After finishing, save the file with "Ctrl + s", and you can close the file. Once
 
 If everything went right a prompt should appear at the top of the application.
 
-![](fin.png)
+![](pic/fin.png)
 
 click ".Confirm Current Folder". This will drop you in the home directory with all of your files. Now you can edit all of your files while using all of your favorite extension. 
