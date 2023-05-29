@@ -2,7 +2,7 @@
 
 
 ## Background
----
+
 ### What is Visual Studio Code?
 [Visual Studio Code or VS code](https://code.visualstudio.com/) is a source code editor that allows users to add 
 extensions to fit their needs. Released on April 29, 2015, it has become a tool developers around the world use day to day. It is [available]
