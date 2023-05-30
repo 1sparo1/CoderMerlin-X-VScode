@@ -25,7 +25,8 @@ On the left-hand side, there is a bar with different options, and for the sake o
 
 ![](pic/bar.png)
 
-After you click it, go to the search bar and type "SFTP".
+After you click it, go to the search bar and type 
+"SFTP".
 
 ![](pic/sftp.png)
 
@@ -33,7 +34,7 @@ After you click it, go to the search bar and type "SFTP".
 
 Install the highlighted extension titled ["VS Code SFTP."](https://marketplace.visualstudio.com/items?itemName=suntobright.vscode-sftp). Note that you may need to reload Visual Studio Code.
 
-Once you have installed the extension and reloaded your VS code, click the "View" tab on the menu bar.
+Once you have installed the extension and reloaded your VS code, click the ***"View"*** tab on the menu bar.
 
 ![](pic/menueBar.png)
 
@@ -42,7 +43,7 @@ Click the commandpallet option:
 
 ![](pic/view.png)
 
-Once you click this, a popup will appear. In the search field, type "SFTP", and an option titled "SFTP: add folder", will appear. Click this.
+Once you click this, a popup will appear. In the search field, type ***"SFTP"***, and an option titled ***"SFTP: add folder"***, will appear. Click this.
 
 ![](pic/popup.png)
 
@@ -50,7 +51,7 @@ Once you have clicked this, you will be presented with the option to create a ne
 
 ![](pic/connect.png)
 
-Once you do that, it will generate a new file called "sftConfig.json". It will look like this:
+Once you do that, it will generate a new file called ***"sftConfig.json"***. It will look like this:
 
 ```json
 {
@@ -73,7 +74,7 @@ But for this tutorial, delete the boilerplate given; instead, use this:
     "password": "password123" 
 }
 ```
-After finishing, save the file with "Ctrl + s", and you can close the file. Once you do, a pop-up on the lower right-hand corner will appear. In the lower right corner, Click accept.
+After finishing, save the file with ***"Ctrl + s"***, and you can close the file. Once you do, a pop-up on the lower right-hand corner will appear. In the lower right corner, Click accept.
 
 If everything went right, a prompt should appear at the top of the application.
 
