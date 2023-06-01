@@ -80,4 +80,4 @@ If everything went right, a prompt should appear at the top of the application.
 
 ![](pic/fin.png)
 
-Click ".Confirm Current Folder". This will drop you in the home directory with all of your files. Now you can edit all of your files while using all of your favorite extensions. 
+Click ***".Confirm Current Folder"***. This will drop you in the home directory with all of your files. Now you can edit all of your files while using all of your favorite extensions. 
