@@ -68,8 +68,8 @@ But for this tutorial, delete the boilerplate given; instead, use this:
 ```json
 {
     "comment": "Please fill the following configuration, save it, then close the tab.",
-    "host": "ssh.codermerlin.com",
-    "port": 443,
+    "host": "ssh.codermerlin.academy",
+    "port": 22,
     "username": "joe-mama",
     "password": "password123" 
 }
