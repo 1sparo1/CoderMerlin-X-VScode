@@ -81,3 +81,7 @@ If everything went right, a prompt should appear at the top of the application.
 ![](pic/fin.png)
 
 Click ***".Confirm Current Folder"***. This will drop you in the home directory with all of your files. Now you can edit all of your files while using all of your favorite extensions. 
+
+If you would like to save your configuration to use at a later time, click ***File*** >>> ***Save Workspace*** and name the configuration whatever you would like. 
+If you would like to close your workspace to use VSCode for other purposes, go to ***File** >>> ***Close Workspace***.
+To reopen your configuration, go to ***File*** >>> ***Open workspace from file*** and navigate to the workspace configuration file you made previously.
